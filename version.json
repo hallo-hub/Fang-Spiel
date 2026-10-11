@@ -1,15 +1,15 @@
 {
-  "version": "1.0.1",
+  "version": "1.2.1",
   "download_url": "https://github.com/hallo-hub/Fang-Spiel/releases/latest/download/Faengerspiel.exe",
   "sha256": "",
   "notice": "Für Online-Spiele hostet einer von euch und schickt den anderen die Host-ID.",
   "changelog": [
     {
-      "version": "1.0.0",
+      "version": "1.2.0",
       "date": "2026-10-11",
       "changes": [
-        "Erste Version: Ein Fänger mit Pistole jagt die Verstecker",
-        "Rundensystem mit Verstecken-Phase, Rundenzeit und Punktestand",
+        "Neue Verion!",
+        "NEU: Online Multiplayer",
         "Erwischte Spieler schauen als Geist zu",
         "Große Map mit Häusern, Lagerhalle, Container-Hof und Turm",
         "Online-Spiel über Host-ID, ohne Portfreigabe",
