@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
+  "version": "1.3.1",
   "download_url": "https://github.com/hallo-hub/Fang-Spiel/releases/download/V1.1.1/Faengerspiel.exe",
   "sha256": "",
   "notice": "Für Online-Spiele hostet einer von euch und schickt den anderen die Host-ID.",
   "changelog": [
     {
-      "version": "1.1.1",
+      "version": "1.3.1",
       "date": "2026-10-11",
       "changes": [
         "Neue Version!",
